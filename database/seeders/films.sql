@@ -1,5 +1,5 @@
 
-INSERT INTO `films` (`id`, `title`, `description`, `release_year`, `language_id`, `length`, `rating`, `special_features`, `image`, `created_at`) VALUES
+INSERT INTO films (id, title, description, release_year, language_id, length, rating, special_features, image, created_at) VALUES
 (1, 'ACADEMY DINOSAUR', 'A Epic Drama of a Feminist And a Mad Scientist who must Battle a Teacher in The Canadian Rockies', 2006, 1, 86, 'PG', 'Deleted Scenes,Behind the Scenes', '', '2006-02-15 15:03:42'),
 (2, 'ACE GOLDFINGER', 'A Astounding Epistle of a Database Administrator And a Explorer who must Find a Car in Ancient China', 2006, 1, 48, 'G', 'Trailers,Deleted Scenes', '', '2006-02-15 15:03:42'),
 (3, 'ADAPTATION HOLES', 'A Astounding Reflection of a Lumberjack And a Car who must Sink a Lumberjack in A Baloon Factory', 2006, 1, 50, 'NC-17', 'Trailers,Deleted Scenes', '', '2006-02-15 15:03:42'),

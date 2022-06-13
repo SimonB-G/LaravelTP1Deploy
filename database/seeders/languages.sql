@@ -1,4 +1,4 @@
-INSERT INTO `languages` (`id`, `name`) VALUES
+INSERT INTO languages (id, name) VALUES
 (1, 'English'),
 (2, 'Italian'),
 (3, 'Japanese'),

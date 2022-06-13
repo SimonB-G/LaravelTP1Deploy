@@ -1,5 +1,5 @@
 
-INSERT INTO `actors` (`id`, `first_name`, `last_name`, `birthdate`) VALUES
+INSERT INTO actors (id, first_name, last_name, birthdate) VALUES
 (1, 'PENELOPE', 'GUINESS', '1970-01-01'),
 (2, 'NICK', 'WAHLBERG', '1970-01-01'),
 (3, 'ED', 'CHASE', '1970-01-01'),
